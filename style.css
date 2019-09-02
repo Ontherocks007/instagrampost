@@ -1,0 +1,29 @@
+
+.cabeza div{
+    overflow: hidden;
+    float: left;
+}
+#titulo{
+    width: 100px;
+    display: inline-block;
+}
+#foto1{
+     height: 50px;
+     width: 50px;
+    float: right;
+}
+#foto2{
+    height: 50px;
+    width: 50px;
+}
+#fotoPrincipal{
+    width: 100%;
+}
+#imgPie{
+    overflow: hidden;
+}
+#imgPie img{
+     float: left;
+    width: 30px;
+    height: 50px;
+}
